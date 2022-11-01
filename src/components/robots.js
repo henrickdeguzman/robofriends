@@ -1,36 +1,24 @@
-export const robots = [
+export const constRobots = [
     {
-        id: 1,
+        id: 11,
         name: "John Doe",
         username: "johndoe",
         email: "johndoe@gmail.com"
     },
     {
-        id: 2,
-        name: "Jane Doe",
-        username: "janedoe",
-        email: "janedoe@gmail.com"
+        id: 12,
+        name: "Allen Aliola",
+        username: "lenny",
+        email: "allenny@gmail.com"
     },
     {
-        id: 3,
-        name: "Henrick De Guzman",
-        username: "henrickdg",
-        email: "henrickdeguzman@gmail.com"
-    },
-    {
-        id: 4,
-        name: "Sher Kristine Valdemoro",
-        username: "sherk",
-        email: "sherk@gmail.com"
-    },
-    {
-        id: 5,
+        id: 13,
         name: "Terrence Audea",
         username: "terry",
         email: "terry@gmail.com"
     },
     {
-        id: 6,
+        id: 14,
         name: "Karl Castro",
         username: "karl",
         email: "karl@gmail.com"
